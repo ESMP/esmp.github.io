@@ -30,7 +30,7 @@ twitter_username: ESMP
 github_username:  ESMP
 
 # Build settings
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
 
