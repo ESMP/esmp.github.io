@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9937e06-655b-49d6-9698-64c17be72317" name="Default Changelist" comment="about.markdown" />
+    <list default="true" id="a9937e06-655b-49d6-9698-64c17be72317" name="Default Changelist" comment="about.markdown">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,7 +52,8 @@
       <updated>1605573253876</updated>
       <workItem from="1605573255001" duration="33000" />
       <workItem from="1605573297118" duration="47000" />
-      <workItem from="1605573354411" duration="670000" />
+      <workItem from="1605573354411" duration="871000" />
+      <workItem from="1605575153782" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="about.markdown">
       <created>1605573997599</created>
@@ -59,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605573997599</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="about.markdown">
+      <created>1605574107050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605574107050</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,20 +85,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="about.markdown" />
     <option name="LAST_COMMIT_MESSAGE" value="about.markdown" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="165" key="SettingsEditor" timestamp="1605573518744">
+    <state x="462" y="165" key="SettingsEditor" timestamp="1605575229869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="462" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605573518744" />
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605573655220">
+    <state x="462" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605575229869" />
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605574111292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605573655220" />
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605574111292" />
     <state x="623" y="226" key="search.everywhere.popup" timestamp="1605573414637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
