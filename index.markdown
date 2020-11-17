@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# Título
+
+Párrafo Lorem ipsum.
