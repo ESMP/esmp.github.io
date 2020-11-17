@@ -19,63 +19,94 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9937e06-655b-49d6-9698-64c17be72317" name="Default Changelist" comment="servers url update" />
+    <list default="true" id="15f5fc1e-6dfd-4de9-b004-10af675603e3" name="Default Changelist" comment="config">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="main" />
   </component>
-  <component name="ProjectId" id="1kOYl6ntRlKFNv2iAOiU4JZO3H6" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Eduardo Sánchez &lt;622343+esmp@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1kO4tZMB7DSeDv8j7csZ7tYHttm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a9937e06-655b-49d6-9698-64c17be72317" name="Default Changelist" comment="" />
-      <created>1605573253876</created>
+      <changelist id="15f5fc1e-6dfd-4de9-b004-10af675603e3" name="Default Changelist" comment="" />
+      <created>1605558519094</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605573253876</updated>
-      <workItem from="1605573255001" duration="33000" />
-      <workItem from="1605573297118" duration="47000" />
-      <workItem from="1605573354411" duration="871000" />
-      <workItem from="1605575153782" duration="397000" />
+      <updated>1605558519094</updated>
+      <workItem from="1605558520150" duration="1358000" />
+      <workItem from="1605586575123" duration="363000" />
     </task>
-    <task id="LOCAL-00001" summary="about.markdown">
-      <created>1605573997599</created>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1605559085255</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1605573997599</updated>
+      <updated>1605559085255</updated>
     </task>
-    <task id="LOCAL-00002" summary="about.markdown">
-      <created>1605574107050</created>
+    <task id="LOCAL-00002" summary="author reset">
+      <created>1605559593580</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1605574107050</updated>
+      <updated>1605559593580</updated>
     </task>
-    <task id="LOCAL-00003" summary="servers url update">
-      <created>1605575527832</created>
+    <task id="LOCAL-00003" summary="title">
+      <created>1605559728953</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1605575527832</updated>
+      <updated>1605559728953</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="config">
+      <created>1605559784605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605559784605</updated>
+    </task>
+    <task id="LOCAL-00005" summary="config">
+      <created>1605559852237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605559852237</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,25 +122,39 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="about.markdown" />
-    <MESSAGE value="servers url update" />
-    <option name="LAST_COMMIT_MESSAGE" value="servers url update" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="author reset" />
+    <MESSAGE value="title" />
+    <MESSAGE value="config" />
+    <option name="LAST_COMMIT_MESSAGE" value="config" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="165" key="SettingsEditor" timestamp="1605575229869">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="568" y="350" key="#Notifications" timestamp="1605559473641">
+      <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="462" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605575229869" />
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605575546448">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="568" y="350" key="#Notifications/0.25.1680.956@0.25.1680.956" timestamp="1605559473641" />
+    <state x="706" y="423" key="Github.ShareDialog" timestamp="1605558707377">
+      <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605575546447" />
-    <state x="623" y="226" key="search.everywhere.popup" timestamp="1605573414637">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="706" y="423" key="Github.ShareDialog/0.25.1680.956@0.25.1680.956" timestamp="1605558707377" />
+    <state x="621" y="228" key="RollbackChangesDialog" timestamp="1605559041479">
+      <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="623" y="226" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605573414637" />
+    <state x="621" y="228" key="RollbackChangesDialog/0.25.1680.956@0.25.1680.956" timestamp="1605559041479" />
+    <state x="360" y="158" key="SettingsEditor" timestamp="1605559284558">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="360" y="158" key="SettingsEditor/0.25.1680.956@0.25.1680.956" timestamp="1605559284558" />
+    <state x="451" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605559855416">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="451" y="259" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1605559855416" />
+    <state x="652" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605586764587">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="652" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.956@0.25.1680.956" timestamp="1605586764587" />
   </component>
 </project>
