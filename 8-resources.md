@@ -4,23 +4,23 @@ title: Recursos
 permalink: /resources/
 ---
 
-# Tiendas
+## Tiendas
 
-## Equipo
+# Equipo
 - [Kurokigoishiten [EN & JA]](http://shop.kurokigoishi.co.jp/en/)
     - Mi favorita, aquí he comprado la mayor parte de mi equipo. Los precios pueden ser muy elevados, pero la calidad es excelente.
 
-## Libros
+# Libros
 - [Amazon [INT]](https://www.amazon.com)
     - Por supuesto encabeza la lista puesto que tiene el mayor repertorio de libros dirigidos a occidentales.
 - [978 Store (MyNavi) [JA]](https://book.mynavi.jp/978store/)
     - Buen catálogo de libros publicados por MyNavi, y lo mejor es que sus libros son formato PDF sin DRM. 
 
-## Artículos varios
+# Artículos varios
 - [Nihonkiin (via Rakuten) [JA]](https://www.rakuten.co.jp/nihonkiin/)
     - Aquí básicamente he comprado cochinaditas con temática de go; abanico, corbata, toallitas, llaveros.
 
-# Forwarders
+## Forwarders
 Algunas de las tiendas no ofrecen envíos internacionales (o al menos no a México) por lo que es necesario un intermediario que ofrezca dirección en Japón.
 
 - [Blackship [JA / EN]](https://blackship.com/) 
